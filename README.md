@@ -5,6 +5,8 @@
 The confusion matrix for the model:
 ![Confusion Matrix](https://github.com/kvmsc/CovidDataClassifier/blob/master/ConfusionMatrix.png)
 
+Colab Notebook: https://colab.research.google.com/drive/1c3I3XbVKn9j6bSsnJFdNwtagwLXqQz-R?usp=sharing
+
 Actual Data is taken from: https://github.com/ieee8023/covid-chestxray-dataset
 
 Pneumonia control dataset from: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
