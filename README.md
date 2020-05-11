@@ -1,6 +1,6 @@
 # CovidDataClassifier
 
-# This model is only for educational purposes. There is no intention to prove the diagnostic capability as the dataset is very small
+## This model is only for educational purposes. There is no intention to prove the diagnostic capability as the dataset is very small
 
 The confusion matrix for the model:
 ![Confusion Matrix](https://github.com/kvmsc/CovidDataClassifier/blob/master/ConfusionMatrix.png)
